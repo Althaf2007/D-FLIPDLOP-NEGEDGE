@@ -60,7 +60,6 @@ endmodule
 Developed by:K.Mohamed Althaf
 
 RegisterNumber:24005994
-*/
 
 **RTL LOGIC FOR FLIPFLOPS**
 
